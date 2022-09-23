@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdfarhan2408&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdfarhan2408)](https://github.com/mohdfarhan2408/github-readme-stats)
+
 <!--
 **mohdfarhan2408/mohdfarhan2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
